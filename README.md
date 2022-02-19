@@ -11,7 +11,7 @@ ___
 
 ## wanna deploy click button below...
 ___
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ankitsharan/RandomAddress)
 
 It will get deployed on heroku..
 ___
